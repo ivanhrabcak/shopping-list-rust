@@ -1,0 +1,2 @@
+[global.databases.shopping_list]
+url = "postgresql://dbuser:dbuserpassword@localhost/shopping_list"
